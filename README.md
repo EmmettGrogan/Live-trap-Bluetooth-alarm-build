@@ -1,7 +1,7 @@
 # Live-trap-Bluetooth-alarm-build
 build R-pi / BT controlled alarm 
 
-Vision: To engineer a wireless auto-alarm to sound when a squirrel is trapped in Chris Notap's excellent homemade live trap https://www.youtube.com/watch?v=7QoWJUEs5E0&t=56s
+Vision: To engineer a wireless alarm to sound in the house when a squirrel is trapped in Chris Notap's excellent homemade live trap https://www.youtube.com/watch?v=7QoWJUEs5E0&t=56s
 
 My vision is to install a tilt switch to a Class 1 Bluetooth transmitter who's signal would be received in the house by the Raspberry Pi some 50 meters away.
 
