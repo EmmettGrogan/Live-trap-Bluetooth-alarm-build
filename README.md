@@ -13,4 +13,17 @@ I expect there is already a groundwork of hardware/software built. I'm new to Py
 
 The squirrels thank you (as do I)
 
+Learning curve help:
+https://bleak.readthedocs.io/en/latest/
+Bleak is an acronym for Bluetooth Low Energy platform Agnostic Klient.
+
+    Free software: MIT license
+    Documentation: https://bleak.readthedocs.io.
+
+Bleak is a GATT client software, capable of connecting to BLE devices acting as GATT servers. It is designed to provide a asynchronous, cross-platform Python API to connect and communicate with e.g. sensors.
+#####
+
+
+
+
 
