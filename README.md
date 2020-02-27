@@ -12,7 +12,8 @@ I see the exercise as having other potential applications, and hope others will 
 I expect there is already a groundwork of hardware/software built. I'm new to Python, so any help offered will be most thankfully received.
 
 The squirrels thank you (as do I)
-
+===================================
+Feb 27, 2020
 Learning curve help:
 https://bleak.readthedocs.io/en/latest/
 Bleak is an acronym for Bluetooth Low Energy platform Agnostic Klient.
