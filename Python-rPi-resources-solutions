@@ -1,0 +1,21 @@
+August 2022 update
+Slow but steady wins the race
+- studying Python syntax 
+- collecting hardware and knowledge base resources
+  - 
+  - Raspberry Pi 4.0 
+  - Raspberry Pi 3.0 (spare)
+  - https://docs.python.org/3.10/tutorial/index.html
+  - https://www.w3schools.com/python/default.asp 
+  - nRF5 SDK - Tutorial for Beginners Pt 44 -Installing WireShark & Packet Sniffer
+    - https://www.youtube.com/watch?v=nZ3Exw1RizM *****
+- Python 3.10.6 installed - on laptop
+- Wireshark installed     - on laptop
+ 
+ Needed:
+ ble sniffer 
+  - potential
+    - https://www.amazon.ca/Bluetooth-Sniffer-CC2540-Protocol-Analysis/dp/B0924W8Y7P/ref=sr_1_3?crid=TPAZD92KVBDU&keywords=BLE+sniffer&qid=1661311185&sprefix=ble+sniffer%2Caps%2C476&sr=8-3
+    - https://www.amazon.ca/s?k=adafruit+sniffer&i=electronics&crid=3HKGYER2KIBCR&sprefix=%2Celectronics%2C225&ref=nb_sb_ss_recent_9_0_recent
+    - 
+ appropriate Python code
