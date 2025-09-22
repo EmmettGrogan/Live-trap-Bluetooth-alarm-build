@@ -1,5 +1,5 @@
-# Live-trap-Bluetooth-alarm-build
-build R-pi / BT controlled alarm 
+# Live-trap-Bluetooth (BLE)-alarm-build
+build R-pi / BLE controlled alarm 
 
 Vision: To engineer a wireless alarm to sound in the house when a squirrel is trapped in Chris Notap's excellent homemade live trap https://www.youtube.com/watch?v=7QoWJUEs5E0&t=56s
 
